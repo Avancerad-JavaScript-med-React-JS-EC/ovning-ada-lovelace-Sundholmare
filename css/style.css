@@ -1,0 +1,14 @@
+body{
+    font-size: 18px;
+    padding: 10px;
+}
+
+img{
+    width: 500px;
+}
+
+.quote{
+    border-left: 4px solid lightgray;
+    opacity: 0.65;
+    padding: 10px;
+}
